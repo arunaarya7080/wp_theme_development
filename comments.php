@@ -6,7 +6,7 @@
  * and the comment form.
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
- *sdkjfbgdsknfbgdsknbvkdjgvnvdfvbgfsjkdbgvkjadfkjgvkfbdjbvhcjhfdkkhbvk
+ *
  * @package HTML_2_WP
  */
 
